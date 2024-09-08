@@ -5,8 +5,9 @@ Proyecto Final - Henry
 Integrantes: 
 
 
-Pablo Micolta
-Tomas Feiertag
-Thomas Bracamonte
-Francisco Iturriaga
-Valentin Testa
+* Pablo Micolta
+* Tomas Feiertag
+* Thomas Bracamonte
+* Francisco Iturriaga
+* Valentin Testa
+
