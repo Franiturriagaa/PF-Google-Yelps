@@ -2,7 +2,7 @@
 Proyecto Final - Henry
 
 
-Integrantes: 
+Integrantes del equipo: 
 
 
 * Pablo Micolta
